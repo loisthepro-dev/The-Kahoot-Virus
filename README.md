@@ -1,1 +1,1 @@
-The Kahoot Virus
+It is a virus that I created in C# honoring Kahoot. It's like if you don't get the questions right, it says that all your files were encrypted (it's a joke virus and none of your files will be encrypted, only the PC will be turned off). If you could give me a star I would appreciate it very much ♥♥
